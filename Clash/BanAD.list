@@ -594,7 +594,7 @@ DOMAIN-SUFFIX,wep016.top
 DOMAIN-SUFFIX,win-stock.com.cn
 DOMAIN-SUFFIX,zantainet.com
 
-#talkatone 2024.4.4添加
+# talkatone 2024.4.4添加
 DOMAIN-SUFFIX, d.tktn.be
 DOMAIN-SUFFIX, ow.pubmatic.com
 DOMAIN-SUFFIX, telemetry.sdk.inmobi.cn
@@ -604,6 +604,30 @@ DOMAIN-SUFFIX, tr-us.adsmoloco.com
 DOMAIN-SUFFIX, sdk.ad.smaato.net
 DOMAIN-SUFFIX, ads.inmobi.com
 DOMAIN-SUFFIX, adrta.com
+
+# Ximalaya
+DOMAIN,ad.ximalaya.com
+DOMAIN,adbs.ximalaya.com
+DOMAIN,adse.ximalaya.com
+DOMAIN,adse.wsa.ximalaya.com
+DOMAIN,adbehavior.wsa.ximalaya.com
+DOMAIN,adbehavior.ximalaya.com
+DOMAIN,adsebs.ximalaya.com
+DOMAIN,adwbs.ximalaya.com
+# Xiaohongshu
+DOMAIN,ads-img-qc.xhscdn.com
+DOMAIN,ads-video-al.xhscdn.com
+DOMAIN,ads-video-qc.xhscdn.com
+DOMAIN,t-ads.xiaohongshu.com
+# Autohome
+DOMAIN,adproxy.autohome.com.cn
+DOMAIN,rd.autohome.com.cn
+DOMAIN,al.autohome.com.cn
+DOMAIN,applogapi.autohome.com.cn
+DOMAIN,adm0.autoimg.cn
+DOMAIN,adm1.autoimg.cn
+DOMAIN,adm2.autoimg.cn
+DOMAIN,adm3.autoimg.cn
 
 
 DOMAIN-SUFFIX,dh54wf.xyz
