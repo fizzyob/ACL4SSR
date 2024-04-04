@@ -606,28 +606,28 @@ DOMAIN-SUFFIX,ads.inmobi.com
 DOMAIN-SUFFIX,adrta.com
 
 # Ximalaya
-DOMAIN,ad.ximalaya.com
-DOMAIN,adbs.ximalaya.com
-DOMAIN,adse.ximalaya.com
-DOMAIN,adse.wsa.ximalaya.com
-DOMAIN,adbehavior.wsa.ximalaya.com
-DOMAIN,adbehavior.ximalaya.com
-DOMAIN,adsebs.ximalaya.com
-DOMAIN,adwbs.ximalaya.com
+DOMAIN-SUFFIX,ad.ximalaya.com
+DOMAIN-SUFFIX,adbs.ximalaya.com
+DOMAIN-SUFFIX,adse.ximalaya.com
+DOMAIN-SUFFIX,adse.wsa.ximalaya.com
+DOMAIN-SUFFIX,adbehavior.wsa.ximalaya.com
+DOMAIN-SUFFIX,adbehavior.ximalaya.com
+DOMAIN-SUFFIX,adsebs.ximalaya.com
+DOMAIN-SUFFIX,adwbs.ximalaya.com
 # Xiaohongshu
-DOMAIN,ads-img-qc.xhscdn.com
-DOMAIN,ads-video-al.xhscdn.com
-DOMAIN,ads-video-qc.xhscdn.com
-DOMAIN,t-ads.xiaohongshu.com
+DOMAIN-SUFFIX,ads-img-qc.xhscdn.com
+DOMAIN-SUFFIX,ads-video-al.xhscdn.com
+DOMAIN-SUFFIX,ads-video-qc.xhscdn.com
+DOMAIN-SUFFIX,t-ads.xiaohongshu.com
 # Autohome
-DOMAIN,adproxy.autohome.com.cn
-DOMAIN,rd.autohome.com.cn
-DOMAIN,al.autohome.com.cn
-DOMAIN,applogapi.autohome.com.cn
-DOMAIN,adm0.autoimg.cn
-DOMAIN,adm1.autoimg.cn
-DOMAIN,adm2.autoimg.cn
-DOMAIN,adm3.autoimg.cn
+DOMAIN-SUFFIX,adproxy.autohome.com.cn
+DOMAIN-SUFFIX,rd.autohome.com.cn
+DOMAIN-SUFFIX,al.autohome.com.cn
+DOMAIN-SUFFIX,applogapi.autohome.com.cn
+DOMAIN-SUFFIX,adm0.autoimg.cn
+DOMAIN-SUFFIX,adm1.autoimg.cn
+DOMAIN-SUFFIX,adm2.autoimg.cn
+DOMAIN-SUFFIX,adm3.autoimg.cn
 
 
 DOMAIN-SUFFIX,dh54wf.xyz
