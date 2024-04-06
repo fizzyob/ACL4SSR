@@ -594,42 +594,6 @@ DOMAIN-SUFFIX,wep016.top
 DOMAIN-SUFFIX,win-stock.com.cn
 DOMAIN-SUFFIX,zantainet.com
 
-# talkatone 2024.4.4添加
-DOMAIN-SUFFIX,d.tktn.be
-DOMAIN-SUFFIX,ow.pubmatic.com
-DOMAIN-SUFFIX,telemetry.sdk.inmobi.cn
-DOMAIN-SUFFIX,googleads4.g.doubleclick.net
-DOMAIN-SUFFIX,adclick.g.doubleclick.net
-DOMAIN-SUFFIX,tr-us.adsmoloco.com
-DOMAIN-SUFFIX,sdk.ad.smaato.net
-DOMAIN-SUFFIX,ads.inmobi.com
-DOMAIN-SUFFIX,adrta.com
-
-# Ximalaya
-DOMAIN-SUFFIX,ad.ximalaya.com
-DOMAIN-SUFFIX,adbs.ximalaya.com
-DOMAIN-SUFFIX,adse.ximalaya.com
-DOMAIN-SUFFIX,adse.wsa.ximalaya.com
-DOMAIN-SUFFIX,adbehavior.wsa.ximalaya.com
-DOMAIN-SUFFIX,adbehavior.ximalaya.com
-DOMAIN-SUFFIX,adsebs.ximalaya.com
-DOMAIN-SUFFIX,adwbs.ximalaya.com
-# Xiaohongshu
-DOMAIN-SUFFIX,ads-img-qc.xhscdn.com
-DOMAIN-SUFFIX,ads-video-al.xhscdn.com
-DOMAIN-SUFFIX,ads-video-qc.xhscdn.com
-DOMAIN-SUFFIX,t-ads.xiaohongshu.com
-# Autohome
-DOMAIN-SUFFIX,adproxy.autohome.com.cn
-DOMAIN-SUFFIX,rd.autohome.com.cn
-DOMAIN-SUFFIX,al.autohome.com.cn
-DOMAIN-SUFFIX,applogapi.autohome.com.cn
-DOMAIN-SUFFIX,adm0.autoimg.cn
-DOMAIN-SUFFIX,adm1.autoimg.cn
-DOMAIN-SUFFIX,adm2.autoimg.cn
-DOMAIN-SUFFIX,adm3.autoimg.cn
-
-
 DOMAIN-SUFFIX,dh54wf.xyz
 DOMAIN-SUFFIX,g2q3e.cn
 
