@@ -283,6 +283,7 @@ cfw-bypass:
   - "*vpimg*"
   - "*xiami*"
   - "*xiaomi*"
+  - "*mxbc*"
   # 360
   - "*.360.com"
   - "*.360kuai.com"
