@@ -425,6 +425,8 @@ cfw-bypass:
   - "*.didiglobal.com"
   - "*.udache.com"
   # Douyu 斗鱼
+  - "*.bytefcdnrd.com"
+  - "*.edgesrv.com"
   - "*.douyu.com"
   - "*.douyu.tv"
   - "*.douyuscdn.com"
@@ -753,6 +755,7 @@ cfw-bypass:
   - "*.kaola.com"
   - "*.knewone.com"
   - "*.koowo.com"
+  - "*.koyso.com"
   - "*.ksyungslb.com"
   - "*.kuaidi100.com"
   - "*.kugou.com"
